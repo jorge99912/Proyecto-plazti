@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(0, 204, 255);
+}
+
+
+#div {
+    text-align: center;
+    border-radius: 2em;
+    border: solid royalblue;
+    padding-top: auto;
+    margin-top: 1em;
+    font-size: auto;
+
+}
+
+
+
+nav {
+    text-align: center;
+
+}
